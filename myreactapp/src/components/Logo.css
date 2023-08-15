@@ -1,0 +1,32 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-nav {
+    margin-top: 20px;
+    margin-right: 40px;
+    display: flex;
+    gap: 15px;
+}
+
+.input-field {
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background-color: #FEF0DC;
+    height: 30px;
+}
+
+
+.logo-box {
+    width: 70px;
+    height: 20px;
+    background-color: grey;
+    color: #000000;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
