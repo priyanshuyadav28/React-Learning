@@ -1,0 +1,55 @@
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    min-width: 1166.78px;
+    height: 1101px;
+    margin-top: 10px;
+    margin-left: 1rem;
+}
+
+.card {
+    width: 375.74px;
+    height: 536px;
+    border: 1px;
+}
+
+.image {
+    width: 375.74px;
+    height: 310px;
+}
+
+.experts {
+    width: 302.57px;
+    height: 64px;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32.88px;
+    color: #222F66;
+}
+
+.description {
+    width: 370.8px;
+    height: 73px;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23.91px;
+    color: #606060;
+}
+
+.btn-read-more {
+    width: 125.58px;
+    height: 50px;
+    border: 1px solid #222F66;
+    border-radius: 25px;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23.91px;
+    color: #222F66;
+
+}
+
